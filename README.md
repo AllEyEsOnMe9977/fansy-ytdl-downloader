@@ -133,7 +133,7 @@ Contributions are welcome!
 1. Fork this repository  
 2. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/fansy-ytdl-downloader.git
+   git clone https://github.com/AllEyEsOnMe9977/fansy-ytdl-downloader.git
    ```
 3. Create a new branch for your changes  
    ```bash
